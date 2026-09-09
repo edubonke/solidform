@@ -1,4 +1,4 @@
 window.SOLIDFORM_SUPABASE = {
-  url: "https://your-project-ref.supabase.co",
-  publishableKey: "sb_publishable_REPLACE_WITH_YOUR_KEY"
+  url: "https://fsxalcagrgentgamsrwo.supabase.co",
+  publishableKey: "sb_publishable_LcDV79wlWGW_aE-7Zk88dQ_f2S7A_5l"
 };
